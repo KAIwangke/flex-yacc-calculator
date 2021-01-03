@@ -3,9 +3,9 @@ Multi_Function_Flex_Bison_calculator
 
 
 
-This project is from the compiler principle CST302
+This lab project is from the compiler principle CST302
 
-CO-author
+CO-authors
 
 CST1809233:WANG KE
 
